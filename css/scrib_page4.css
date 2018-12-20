@@ -1,0 +1,308 @@
+body {
+  margin: 0px;
+  background-image: url("../images/ordiopacity.jpeg");
+  background-size: cover;
+}
+.icone {
+
+	width: 16px;
+	height: 30px;
+}
+
+h2{
+	color: #3F3F3F;
+	font-size: 20px;
+	font-style: bold;
+	position: center;
+  	font-family: roboto;
+  	font-style: normal;
+  	font-weight: bold;
+  	margin-left: 300px;
+  	
+		
+}
+
+h3 {
+  color: #3F3F3F;
+  font-family: roboto;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+  word-spacing: 30px;
+  top: 20px;
+  text-indent: 1020px;
+
+
+}
+
+.boite1{
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 440px;
+	color: grey;
+	font-family: roboto;
+  	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-left: 300px
+}
+
+.boitetitre{  
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 100px;
+
+	color: grey;
+	font-family: roboto;
+ 	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-left: 300px
+  	
+}
+
+.boite2{  
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 203px;
+	color: grey;
+	font-family: roboto;
+  	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-left: 300px;
+}
+
+.boite2_1{  
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 210px;
+	color: grey;
+	font-family: roboto;
+  	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-right: 28px;
+}
+
+.boite2_2{  
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 203px;
+	color: grey;
+	font-family: roboto;
+  	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-left: 300px;
+}
+
+.boite2_3{  
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 210px;
+	color: grey;
+	font-family: roboto;
+  	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-right: 28px;
+}
+
+.boite2_4{  
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 210px;
+	color: grey;
+	font-family: roboto;
+  	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-left: 300px;
+}
+
+.boite2_5{  
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 203px;
+	color: grey;
+	font-family: roboto;
+  	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-left: 300px;
+}
+
+.boite2_6{  
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 210px;
+	color: grey;
+	font-family: roboto;
+  	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-right: 25px;
+}
+
+
+.boite3{  
+	border: 1px solid grey;
+	background: white;
+	padding: 10px;
+	margin: 15px;
+	border-radius: 10px;
+	width: 300px;
+	color: grey;
+	font-family: roboto;
+  	font-style: normal;
+  	font-weight: normal;
+  	font-size: 12px;
+  	margin-left: 28px;
+
+}
+
+
+body, html {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.fleche	{
+	position: absolute;
+	width: 35px;
+	height: 35px;
+	left: 50px;
+	top: 35px;
+}
+
+.header {
+  background: #FFE4BC;                         
+  padding: 0px;                             
+  border-radius: 0px;
+  height: 60px;
+  margin: 0px;  
+  padding-right: 60px;  
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */              
+}
+ 
+.world {
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1302px;
+top: 15px;
+
+} 
+
+.logo {
+
+position: absolute;
+width: 48px;
+height: 62px;
+left: 50px;
+top: 3px;
+
+}
+
+.POPUP {
+	position: absolute;
+	width: 1040px;
+	height: 1100px;
+	margin : 30px ;
+	left: 197px;
+	right: 170px;
+	top: 133px;
+	background: #FFFFFF;
+	border-radius: 38px;
+}
+
+.flexcontainer1{ 
+	display: flex;
+	margin-right: 30px;
+
+ }
+
+ .flexcontainer2{ 
+	display: flex;
+ }
+
+ .flexcontainer3{ 
+	display: flex;
+ }
+
+.flexcontainer4{ 
+	display: flex;
+ }
+
+
+.rectangle5 {
+	position: absolute;
+	width: 157px;
+	height: 41px;
+	left: 850px;
+	bottom: 30px;
+
+	background: #FFE4BC;
+	border-radius: 14px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 15px;
+	text-align: center;
+
+
+
+	color: #3F3F3F;
+}
+
+.center {
+
+	padding-top:10px;
+
+}
+
+.links{
+  color: #3F3F3F;
+  text-decoration: none;
+}
+
+a:visited{
+    color: #3F3F3F;
+    text-decoration: none;
+}

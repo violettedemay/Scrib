@@ -1,0 +1,289 @@
+body {
+
+  margin: 0px;
+  background-image: url("../images/ordiopacity.jpeg");
+  background-size: cover;
+
+
+}
+
+.icone {
+
+	width: 16px;
+	height: 30px;
+}
+
+.header {
+  background: #FFE4BC;                         
+  padding: 0px;                             
+  border-radius: 0px;
+  height: 60px;
+  margin: 0px;  
+  padding-right: 60px;  
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */              
+}
+
+
+h2 {
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 20px;
+	color: #3F3F3F;
+	position: absolute;
+	width: 664px;
+	height: 47px;
+	left: 130px;
+	top: 23px;
+
+}
+
+h3 {
+  color: #3F3F3F;
+  font-family: roboto;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+  word-spacing: 30px;
+  top: 20px;
+  text-indent: 1020px;
+
+
+}
+
+h4 {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 17px;
+	color: #3F3F3F;
+	position: absolute;
+	width: 263px;
+	height: 24px;
+	left: 666px;
+	top: 30px;
+}
+
+ h5 {
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 17px;
+	color: #3F3F3F;
+	position: absolute;
+	width: 263px;
+	height: 24px;
+	left: 666px;
+	top: 205px;
+
+
+ }
+
+ h6 {
+	position: absolute;
+	width: 69px;
+	height: 13px;
+	left: 666px;
+	top: 54px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: 500;
+	line-height: normal;
+	font-size: 12px;
+
+	color: #3F3F3F;
+ }
+
+.world {
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1302px;
+top: 15px;
+
+} 
+
+
+.line {
+
+	position: absolute;
+	width: 700px;
+	height: 0px;
+	left: 280px;
+	top: 350px;
+
+	mix-blend-mode: normal;
+	border: 0.5px solid #3F3F3F;
+	transform: matrix(0, 1, -1, -0.01, 0, 0);
+}
+
+.logo {
+
+position: absolute;
+width: 48px;
+height: 62px;
+left: 50px;
+top: 3px;
+
+}
+
+.fleche	{
+	position: absolute;
+width: 40px;
+height: 40px;
+left: 50px;
+top: 35px;
+}
+
+
+
+.POPUP {
+	position: absolute;
+	width: 990px;
+	height: 700px;
+	left: 220px;
+	top: 133px;
+	background: #FFFFFF;
+	border-radius: 38px;
+	margin-bottom: 90px;
+
+}
+
+.rectangle1 {
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 666px;
+	top: 120px;
+
+	background: #FFE4BC;
+	border-radius: 14px;
+}
+
+.rectangle2 {
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 777px;
+	top: 120px;
+
+	background: #FFE4BC;
+	border-radius: 14px;
+}
+
+.rectangle3 {
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 777px;
+	top: 280px;
+
+	background: #FFE4BC;
+	border-radius: 14px;
+}
+
+.rectangle4 {
+	position: absolute;
+	width: 72px;
+	height: 68px;
+	left: 666px;
+	top: 280px;
+
+	background: #FFE4BC;
+	border-radius: 14px;
+}
+
+
+.rectangle5 {
+	position: absolute;
+	width: 157px;
+	height: 41px;
+	left: 760px;
+	bottom: 97px;
+
+	background: #FFE4BC;
+	border-radius: 14px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: bold;
+	line-height: normal;
+	font-size: 15px;
+	text-indent: 10px;
+	text-align: center;
+
+
+	color: #3F3F3F;
+}
+
+.center {
+
+	padding-top:10px;
+
+}
+
+.word {
+
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	left: 8px;
+	top: 8px;
+}
+
+.txt {
+
+	position: absolute;
+	width: 70px;
+	height: 70px;
+	left: 3px;
+	top: 3px;
+}
+
+.print {
+
+	position: relative;
+	width: 60px;
+	height: 60px;
+	top: 8px;
+	left: 5px;
+}
+
+.pdf {
+
+	position: relative;
+	width: 60px;
+	height: 60px;
+	top: 8px;
+	left: 5px;
+}
+
+.lettre {
+
+	border-radius: 14px;
+	position: absolute;
+	width: 409px;
+	height: 477px;
+	top: 120px;
+	left:100px;
+	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+
+}
+
+.links{
+  color: #3F3F3F;
+  text-decoration: none;
+}
+
+a:visited{
+    color: #3F3F3F;
+    text-decoration: none;
+}

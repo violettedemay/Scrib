@@ -1,0 +1,140 @@
+body {
+  margin: 0px;
+  background-image: url("../images/ordiopacity.jpeg");
+  background-size: cover;
+}
+
+h1 {
+  color: #FFE4BC;
+  position: absolute;
+  top: 220px;
+  left:600px;
+  text-align: center;
+  font-family: roboto;
+  font-size: 90px;
+}
+
+h2 {
+  color: #3F3F3F;
+  text-align: center;
+  font-family: roboto;
+  font-size: 20px;
+}
+
+h3 {
+  color: #3F3F3F;
+  font-family: roboto;
+  font-style: normal;
+  font-weight: normal;
+  letter-spacing: 0.5px;
+  word-spacing: 30px;
+  top: 20px;
+  text-indent: 1020px;
+
+
+}
+
+h4 {
+  position: absolute;
+  top:200px;
+  left:600px;
+  color: #3F3F3F;
+  font-family: roboto;
+  text-align: center;
+  font-size: 30px;
+  padding: 5px;
+}
+h5 {
+  position: absolute;
+  top:380px;
+  right: 300px;
+  color: #3F3F3F;
+  font-family: roboto;
+  text-align: center;
+  font-size:25px;
+}
+
+body, html {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+.header {
+  background: #FFE4BC;                         
+  padding: 0px;                             
+  border-radius: 0px;
+  height: 60px;
+  margin: 0px;  
+  padding-right: 60px;  
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */              
+}
+ 
+.world {
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 1302px;
+top: 15px;
+
+} 
+
+.logo {
+
+position: absolute;
+width: 48px;
+height: 62px;
+left: 50px;
+top: 3px;
+
+} 
+
+.button {
+position: absolute;
+width: 245px;
+height: 63px;
+left: 900px;
+top: 510px;
+
+background: #FFE4BC;
+border-radius: 14px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+font-size: 20px;
+text-align: center;
+padding-top:20px;
+
+}
+
+
+.links{
+  color: #3F3F3F;
+  text-decoration: none;
+}
+
+a:visited{
+    color: #3F3F3F;
+    text-decoration: none;
+}
+
+/* Help me! */
+/*
+position: absolute;
+width: 102px;
+height: 27px;
+left: 1035px;
+top: 631px;
+
+
+
+color: #3F3F3F;*/
